@@ -1,0 +1,194 @@
+
+CodePen Home
+FinalProject
+Joseph Caffrey
+HTML
+0 unsaved changes
+
+1
+
+<!DOCTYPE html>
+
+2
+
+<html>
+
+3
+
+  <!DOCTYPE html>
+
+4
+
+<html lang="en">
+
+5
+
+<head>
+
+6
+
+    <meta charset="UTF-8">
+
+7
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+8
+
+  
+
+9
+
+    <title>Centered Content Page</title>
+
+10
+
+    <style>
+
+11
+
+        body {
+
+12
+
+            text-align: center; /* Centers text */
+
+13
+
+            margin: 0;
+
+14
+
+            padding: 0;
+
+15
+
+            font-family: Arial, sans-serif;
+
+16
+
+        }
+
+17
+
+        img {
+
+18
+
+            display: block; /* Allows margin: auto to work for block-level elements */
+
+19
+
+            margin: auto; /* Centers the image */
+
+20
+
+            max-width: 100%; /* Makes the image responsive */
+
+21
+
+            height: auto; /* Maintains the aspect ratio */
+
+22
+
+        }
+
+!
+CSS
+
+1
+
+<!DOCTYPE html>
+
+2
+
+<html lang="en">
+
+3
+
+<head>
+
+4
+
+    <meta charset="UTF-8">
+
+5
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+6
+
+    <title>Centered Paragraph in a Box</title>
+
+7
+
+    <style>
+
+8
+
+        /* Include the CSS styles here */
+
+9
+
+        .box {
+
+10
+
+            width: 300px;
+
+11
+
+            height: 200px;
+
+12
+
+            display: flex;
+
+13
+
+            align-items: center;
+
+14
+
+            justify-content: center;
+
+15
+
+            text-align: center;
+
+16
+
+            margin: auto;
+
+17
+
+            border: 1px solid black;
+
+18
+
+        }
+
+19
+
+​
+
+20
+
+        .box p {
+
+21
+
+            margin: 0;
+
+22
+
+            padding: 10px;
+
+JS
+
+1
+
+​
+
+Contabo: Black Friday Sale: Massive Cloud Discounts!
+Last saved 2 days ago
